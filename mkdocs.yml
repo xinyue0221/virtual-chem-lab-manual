@@ -1,9 +1,9 @@
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_name: "Virtual Chemistry Lab Manual: A Computational Approach"
+site_url: https://clab.xinyue.me
 theme:
   name: material
   font: 
-    text: Merriweather Sans
+    text: Roboto
     code: Red Hat Mono
   logo: assets/logo.png
   favicon: assets/favicon_stanford.png
@@ -49,9 +49,9 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
+    - icon: fontawesome/brands/github
+      link: https://github.com/xinyue0221/virtual-chem-lab-manual
     - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+      link: https://www.linkedin.com/in/xinyue-wang-37168a248/
 
 copyright: Copyright &copy; 2025 Xinyue Wang, All Rights Reserved.
