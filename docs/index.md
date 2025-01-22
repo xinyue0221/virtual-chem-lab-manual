@@ -10,22 +10,6 @@ From the outset, the manual introduces fundamental principles of chemistry, supp
 
 The manual is segmented into modules that parallel the academic year syllabi. In the first year, modules cover core concepts of general chemistry: atomic theory, periodic trends, bonding, stoichiometry, thermodynamics, kinetics, equilibrium, and spectroscopy. In the second year, the focus shifts to organic chemistry topics including bonding and functional groups, reaction mechanisms, stereochemistry, and advanced synthesis techniques. Each topic is paired with corresponding computational experiments to solidify understanding and provide practical skills.
 
-### A Structured Two-Year Learning Path
-
-#### Year 1: General Chemistry
-
-The first year of the manual is structured to emulate a full-year collegiate general chemistry course. Initially, students explore the basics of atomic structure, periodicity, and chemical bonding. Early computational experiments include constructing models of atoms and simple molecules, visualizing orbital shapes, and understanding electron density distributions through simulation software like WebMO, ChemCompute, and VCCLab.
-
-As students progress through the year, they encounter more complex topics such as stoichiometry, thermochemistry, and equilibrium. Virtual labs simulate calorimetric experiments, allow for the calculation of enthalpy changes, investigation of reaction rates, and understanding of equilibrium constants. These experiences not only reinforce theoretical knowledge but also provide a safe and cost-effective alternative to traditional laboratories.
-
-The general chemistry portion is carefully aligned with *[Chemistry 2e](https://openstax.org/books/chemistry-2e)*, ensuring that each chapter references appropriate sections of the textbook. This alignment helps students prepare for traditional assessments while mastering computational techniques that enhance their learning.
-
-#### Year 2: Introductory Organic Chemistry
-
-Building on the foundation laid in the first year, the second year transitions into introductory organic chemistry. This segment is structured as a full-year course that corresponds closely with topics in *[Organic Chemistry, 10th Edition](https://openstax.org/books/organic-chemistry/)*. Students move from understanding basic concepts of organic molecules to diving into more complicated structures and reaction mechanisms.
-
-Early in the organic chemistry curriculum, students review the essentials of bonding, hybridization, and functional groups, supplemented by computational models to visualize these concepts in three dimensions. As the year advances, the manual introduces students to a variety of organic reactions, detailing mechanisms through simulation. They can model reaction pathways, predict product distributions, and analyze spectra using virtual tools, making complex organic transformations more approachable.
-
 ### Technological Accessibility and Inclusivity
 
 A core objective of this manual is to democratize access to high-quality chemical education across two rigorous academic years. Traditional laboratories often present significant barriers due to high costs and limited availability, especially in under-resourced schools. In contrast, the computational tools highlighted in this manual—accessible via a standard laptop—make advanced chemical experimentation feasible and inclusive.
@@ -37,12 +21,6 @@ These platforms are chosen for their user-friendliness, robustness, and educatio
 To ensure that the manual meets the curriculum requirements of a two-year chemistry program, each chapter and lab exercise is aligned with key learning objectives and outcomes defined by academic standards. The topics progress logically, building a strong foundation in general chemistry before moving into the more specialized territory of organic chemistry. This structured approach aids comprehension and helps instructors seamlessly integrate the manual into their courses.
 
 Throughout the first year, the manual methodically covers areas such as quantum mechanics, molecular geometry, thermodynamics, and kinetics, which are prerequisites for understanding organic chemistry. In the second year, the focus shifts to organic nomenclature, reaction mechanisms, functional group interconversions, and spectroscopy, among others. By following this progression, students not only learn individual concepts but also see how these ideas interconnect over a sustained period of study.
-
-### Instructor and Student Benefits
-
-For instructors, the manual offers a ready-to-use resource that aligns with the comprehensive requirements of a two-year program. It reduces preparation time, provides a wealth of activities to engage students, and ensures a coherent flow from general to organic chemistry. Each experiment and simulation comes with clear instructions, theoretical background, and analysis questions, facilitating deeper learning and interactive classroom discussions.
-
-Students benefit significantly from this structured, two-year approach. The virtual lab environment encourages active learning, allowing them to repeat experiments, adjust parameters, and learn from trial and error without risks. This iterative process of hypothesis, simulation, observation, and analysis forms the core of scientific inquiry and is reinforced across both years of study.
 
 ### Empowering Self-Directed and Collaborative Learning
 

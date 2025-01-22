@@ -204,11 +204,11 @@ Provide a **concise summary** of your findings:
 
 ## **Appendix**
 
-*(Include any additional data, screenshots, or calculations here. For example, you might provide snapshots of intermediate steps, partial outputs, or more detailed computational logs.)*
+*(Include any additional data, screenshots, or calculations here.)*
 
 <figure markdown="span">
   ![Additional Screenshot](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>**Figure:** Example of Additional Data (Replace with your own screenshots.)</figcaption>
+  <figcaption>**Figure:** Example of Additional Data</figcaption>
 </figure>
 
 ---
