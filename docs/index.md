@@ -2,7 +2,7 @@
 
 **Virtual Chemistry Lab Manual: A Computational Approach** is meticulously designed to meet the scope and sequence requirements of a two-year chemistry education curriculum. The first year covers a full-year collegiate general chemistry course, while the second year focuses on a full-year introductory organic chemistry course. This manual leverages cutting-edge computational tools and open educational resources to bridge theory with practice, providing students with an accessible and dynamic way to explore complex chemical concepts over these two foundational years.
 
-This comprehensive guide allows students to simulate experiments, visualize molecular structures, compute chemical properties, and analyze reaction mechanisms without the need for a physical laboratory. The content aligns closely with the curriculum and pedagogical standards expected for each year of study, making it an ideal supplement or alternative to conventional lab work in both general and organic chemistry courses.
+This comprehensive guide allows students to simulate experiments, visualize molecular structures, compute chemical properties, and analyze reaction mechanisms without the need for a physical laboratory. The content aligns closely with the curriculum and pedagogical standards expected for each year of study, making it an ideal supplement or alternative to conventional lab work in both general chemistry and organic chemistry courses.
 
 ### Bridging Theory and Practice Over Two Years
 
